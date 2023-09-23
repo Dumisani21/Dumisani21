@@ -3,11 +3,23 @@
 </head>
 
 
-## Hi, I'm [Your Name]!
+## Hi, I'm Dumisani!
 
-[Image of yourself]
+[me.png]
 
 I'm a [Your Job Title] at [Your Company]. I'm passionate about [Your Passions]. I'm also a contributor to open source software, and I'm excited to be a part of the GitHub community.
+
+### What I do
+
+I'm a [Your Job Title] with [Number] years of experience in [Your Industry]. I'm passionate about [Your Passions], and I'm always looking for new ways to learn and grow.
+
+### My skills
+
+* [Skill 1]
+* [Skill 2]
+* [Skill 3]
+
+### My projects
 
 Here are some of my favorite projects:
 
@@ -15,9 +27,9 @@ Here are some of my favorite projects:
 * [Link to Project 2]
 * [Link to Project 3]
 
-I'm always looking for new ways to learn and grow, so please don't hesitate to reach out to me if you have any questions or suggestions.
+### Get in touch
 
-### Contact Me
+I'm always looking for new opportunities to collaborate and learn. If you have any questions or suggestions, please feel free to reach out to me:
 
 * LinkedIn: [Your LinkedIn Profile URL]
 * Twitter: [Your Twitter Profile URL]
