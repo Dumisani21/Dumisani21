@@ -18,20 +18,27 @@
 
 
 <section id="skills">
-  <h2>My Skills</h2>
+  <h2>My Skills and Technologies I Use</h2>
   <ul>
     <li>Java</li>
     <li>JavaScript</li>
     <li>Python</li>
-    <li>C# - basics</li>
-    <li>C++ - basics</li>
+    <li>C# - Basics</li>
+    <li>C++ - Basics</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>React.js</li>
     <li>Vue.js</li>
-    <!-- Feel free to add more skills as needed -->
+    <li>Node.js</li>
+    <li>Visual Studio Code</li>
+    <li>IntelliJ IDEA</li>
+    <li>Obsidian</li>
+    <li>Lucidchart</li>
+    <li>Visual Studio</li>
+    <!-- Add more skills and technologies as needed -->
   </ul>
 </section>
+
 <!--
 <section id="projects">
   <h2>My Projects</h2>
