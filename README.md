@@ -18,7 +18,7 @@
 
 
 <section id="skills">
-  <h2>My Skills and Technologies I Use</h2>
+  <h2>Technologies I Use</h2>
   <ul>
     <li>Java</li>
     <li>JavaScript</li>
