@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Dumisani - Software Developer</title>
   <link rel="stylesheet" href="https://raw.githubusercontent.com/sindresorhus/github-markdown-themes/master/github-dark/github-dark.css">
 </head>
 <body>
