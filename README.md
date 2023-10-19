@@ -22,18 +22,18 @@
   <ul>
     <li>Java</li>
     <li>JavaScript</li>
-    <li>Php</li>
+<!--     <li>Php</li> -->
     <li>Python</li>
-    <li>C# - Basics</li>
+<!--     <li>C# - Basics</li> -->
     <li>C++ - Basics</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>React.js</li>
-    <li>Vue.js</li>
+<!--     <li>Vue.js</li> -->
     <li>Node.js</li>
     <li>Visual Studio Code</li>
     <li>IntelliJ IDEA</li>
-    <li>Obsidian</li>
+<!--     <li>Obsidian</li> -->
     <li>Lucidchart</li>
     <li>Visual Studio</li>
     <!-- Add more skills and technologies as needed -->
