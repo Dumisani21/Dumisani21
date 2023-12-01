@@ -56,7 +56,8 @@
   <!-- <p>If you share my passion for creating beautiful software and have exciting projects or opportunities, please don't hesitate to reach out:</p> -->
   <ul>
     <li>LinkedIn: <a href="https://linkedin.com/in/dumisani-mbonani-6119231a2">LinkedIn Profile</a></li>
-    <li>Website: <a href="https://dumisani-mu.vercel.app/">My website</a></li>
+    <li>Website: <a href="https://portfolio-dumisani.vercel.app/">My website</a></li>
+
   </ul>
 </section>
 
