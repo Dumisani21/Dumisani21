@@ -6,7 +6,7 @@ Software Developer
 
 I'm a back-end developer who enjoys tackling tricky coding problems. While I'm not a designer, I'm inspired by the creative work of designers. My goal is to make technology work smoothly and be user-friendly. I want to build strong and efficient systems that improve how people use technology.
 
-* 🧠  I'm learning Rust, Go, C#, Nextjs and Typescript
+* 🧠  I'm learning Go
 * ⚡  I also love making music
 
 ### Skills
