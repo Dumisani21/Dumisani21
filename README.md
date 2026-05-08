@@ -52,20 +52,6 @@
 
 <br>
 
-<!-- METRICS SECTION -->
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> <b>GitHub Analytics</b></h3>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dumisani21&show_icons=true&hide=&count_private=true&title_color=2A7A6B&text_color=0E0D0B&icon_color=C8963E&bg_color=FDFAF4&hide_border=true" alt="GitHub stats" width="100%" />
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumisani21&langs_count=6&title_color=2A7A6B&text_color=0E0D0B&icon_color=C8963E&bg_color=FDFAF4&hide_border=true&locale=en&layout=compact" alt="Top languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <!-- BOTTOM WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C8963E&height=100&section=footer" width="100%" />
